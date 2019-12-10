@@ -1,0 +1,4 @@
+who
+vowels
+odd
+even
